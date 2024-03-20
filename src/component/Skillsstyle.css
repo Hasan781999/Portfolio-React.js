@@ -1,0 +1,72 @@
+.skills-container{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 6rem 0;
+    background-color: #000;
+}
+span{
+    color: #fff;
+    text-decoration: none;
+    padding: 0;
+    margin: 0 0 6px 0;
+    text-transform: uppercase;
+    display: block;
+}
+.progress{
+    background: #dce8f8;
+    height: 15px;
+}
+.progressbar-1{
+    height: 15px;
+    width: 100%;
+    background-color: rgb(248, 217, 15);
+}
+.progressbar-2{
+    height: 15px;
+    width: 95%;
+    background-color: rgb(248, 217, 15);
+}
+
+.progressbar-3{
+    height: 15px;
+    width: 80%;
+    background-color: rgb(248, 217, 15);
+}
+
+.progressbar-4{
+    height: 15px;
+    width: 80%;
+    background-color: rgb(248, 217, 15);
+}
+
+.progressbar-5{
+    height: 15px;
+    width: 90%;
+    background-color: rgb(248, 217, 15);
+}
+
+.progressbar-6{
+    height: 15px;
+    width: 75%;
+    background-color: rgb(248, 217, 15);
+}
+
+.skill-left{
+    width: 40%;
+}
+
+.skill-right{
+    width: 40%;
+}
+
+.skills{
+    height: 6rem;
+}
+
+.val{
+    float: right;
+}
+.skills-heading h1{
+    text-align: center;
+}
